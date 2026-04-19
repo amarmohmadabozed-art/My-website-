@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
-<head><style>
+<head><meta name="google-site-verification" content="SxNNvkGCEbkM06rwk0dGTxw_JXZrpPXqdqCGCjczG_4" />
+  <style>
   body {
     background-color: black; 
     /* لون خلفية رمادي فاتح */
